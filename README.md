@@ -1,2 +1,2 @@
-# xivart.github.io.
+# xivart.github.io
 subdomain takeover
